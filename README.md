@@ -15,7 +15,7 @@
 <p align="justify">
 I'm a CSE undergrad specializing in Artificial Intelligence at PSIT, Kanpur 🎓.  
 I’ve worked on real-world **NLP projects** like sentiment analysis and duplicate question detection 💬🤖.  
-Currently, I'm learning **Frontend Development** 🌐 — building clean, responsive web UIs.  
+Currently, I'm working on my development skills 🌐 — building clean, responsive web UIs.  
 I'm passionate about blending intelligent systems with user-centric design and excited to keep exploring and creating impactful tech 🚀.
 </p>
 
